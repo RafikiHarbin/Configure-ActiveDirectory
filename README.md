@@ -21,11 +21,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1: Setup Resources in Azure- Create the Domain Controller VM (Windows Server 2022) named “DC-1”
+- Step 1: Create the Domain Controller VM (Windows Server 2022) named “DC-1”.
                                                                                                                         
-         a. Take note of the Resource Group and Virtual Network (Vnet) that get created at this time
+         a. Take note of the Resource Group and Virtual Network (Vnet) that get created at this time.
 
-- Step 2
+- Step 2: Create the Client VM (Windows 10) named “Client-1”. Use the same Resource Group and Vnet that was created in 
+                  Step 1.a
 - Step 3
 - Step 4
 
