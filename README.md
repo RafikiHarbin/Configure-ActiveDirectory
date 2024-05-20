@@ -32,12 +32,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
-<p>
-![Create the DC VM](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/d2821598-a732-4e51-aa57-3057012abeb9)
+![image](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/66017fea-9bd9-4872-bc01-9911d402e12e)
 
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Domain Controller has been created. (The Resource Group, Virtual Network, and Subnet is automatically created)
 </p>
 <br />
 
