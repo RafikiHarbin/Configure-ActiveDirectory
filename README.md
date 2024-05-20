@@ -43,13 +43,8 @@ The Domain Controller VM "DC-1" has been created. (Resource Group, Virtual Netwo
 ![Client-1 VM](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/3bd58885-acbf-4c34-b534-65c1c14c54fe)
 
 The "Client-1" VM has been created using the same Resourse Group and Vnet that was created for "DC-1" VM in step 1a.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+![NIC to Static](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/1cecfb24-b07a-42b8-a7f6-6768b34d1cb9)
+
+Domain Controller's Network Interface Card (NIC) has been set from Dynamic to Static.
