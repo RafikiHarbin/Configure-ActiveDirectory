@@ -38,11 +38,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 
 
-The Domain Controller VM has been created. (Resource Group, Virtual Network, and Subnet is automatically created)
+The Domain Controller VM "DC-1" has been created. (Resource Group, Virtual Network, and Subnet is automatically created)
 
 ![Client-1 VM](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/3bd58885-acbf-4c34-b534-65c1c14c54fe)
 
-The Client-1 VM has been created using the same Resourse Group and Vnet that was created for DC-1 VM in step 1a.
+The "Client-1" VM has been created using the same Resourse Group and Vnet that was created for "DC-1" VM in step 1a.
 </p>
 <br />
 
