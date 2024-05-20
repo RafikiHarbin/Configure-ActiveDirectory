@@ -39,12 +39,28 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 
 The Domain Controller VM "DC-1" has been created. (Resource Group, Virtual Network, and Subnet is automatically created)
+__________________________________________________________________________________________________________________________
+
+
+
 
 ![Client-1 VM](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/3bd58885-acbf-4c34-b534-65c1c14c54fe)
 
 The "Client-1" VM has been created using the same Resourse Group and Vnet that was created for "DC-1" VM in step 1a.
+__________________________________________________________________________________________________________________________
+
+
 
 
 ![NIC to Static](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/1cecfb24-b07a-42b8-a7f6-6768b34d1cb9)
 
 Domain Controller's Network Interface Card (NIC) has been set from Dynamic to Static.
+__________________________________________________________________________________________________________________________
+
+
+
+
+![Both VM's on Same Vnet](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/fe999c5e-a856-4d68-81cc-eb0d73f8800b)
+
+"DC-1" and "Client-1" Virtual Machines (VM's) are on the same Virtual Network (Vnet).
+__________________________________________________________________________________________________________________________
