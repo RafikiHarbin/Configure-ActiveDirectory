@@ -40,11 +40,17 @@ SET UP RESOURCES IN AZURE
 
 - Step 3: Set Domain Controller’s NIC Private IP address to be static.
 
- ![image](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/821e90c0-eae4-4ccb-9f9b-c7ccf3109c04)
+
 
 ![IP Setting](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/7febeebf-90b8-42c4-b3c2-36d761e04b7b)
 
+![Static](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/4d8d3e04-9c8c-4d19-9542-f34eb34d1059)
+![Static Complete](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/7e3bfcb2-97bb-49c7-8430-3c108935c9b5)
+
 - Step 4: Ensure that both VMs are in the same Vnet.
+![Client 1 Vnet](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/97719030-966f-4f40-9258-ab0adf9186dc)
+
+![DC-1 Vnet](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/e8fdb686-7960-4eec-be1b-378840f1b3f3)
 ____________________________________________________________________________________________________________________________
 <h2>Deployment and Configuration Steps</h2>
 
