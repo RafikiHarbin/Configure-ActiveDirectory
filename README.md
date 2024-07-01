@@ -51,38 +51,32 @@ SET UP RESOURCES IN AZURE
 ![Client 1 Vnet](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/97719030-966f-4f40-9258-ab0adf9186dc)
 
 ![DC-1 Vnet](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/e8fdb686-7960-4eec-be1b-378840f1b3f3)
-____________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________
 <h2>Deployment and Configuration Steps</h2>
 
-![Create DC-1](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/4a6e01c4-38d3-413b-b62e-07d2a91820f5)
+INSTALL ACTIVE DIRECTORY (AD)
+
+
+![AD Install](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/dd391f54-128e-42db-841f-8028e0d20f06)
+
+___________________________________________________________________________________________________________________________
+
+CREATE AN ADMIN AND NORMAL USER ACCOUNT IN ACTIVE DIRECTORY (AD)
+![Organizational Unit Admin   Employees](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/d9bf4b8f-14de-448e-aa17-85e5d472774f)
 
 
 
 
 
-The Domain Controller VM "DC-1" has been created. (Resource Group, Virtual Network, and Subnet is automatically created)
 __________________________________________________________________________________________________________________________
 
 
-
-
-![Client-1 VM](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/3bd58885-acbf-4c34-b534-65c1c14c54fe)
-
-The "Client-1" VM has been created using the same Resourse Group and Vnet that was created for "DC-1" VM in step 1a.
-__________________________________________________________________________________________________________________________
+CREATE USER ACCOUNT & ASSIGN TO DOMAIN ADMIN GROUP
 
 
 
 
-![NIC to Static](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/1cecfb24-b07a-42b8-a7f6-6768b34d1cb9)
 
-Domain Controller's Network Interface Card (NIC) has been set from Dynamic to Static.
-__________________________________________________________________________________________________________________________
+![Assign ed to domain admin group](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/f3e448c4-1cbe-42d8-ba9d-72b64ace4136)
 
 
-
-
-![Both VM's on Same Vnet](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/fe999c5e-a856-4d68-81cc-eb0d73f8800b)
-
-"DC-1" and "Client-1" Virtual Machines (VM's) are on the same Virtual Network (Vnet).
-__________________________________________________________________________________________________________________________
