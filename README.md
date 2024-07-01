@@ -63,20 +63,25 @@ ________________________________________________________________________________
 
 CREATE AN ADMIN AND NORMAL USER ACCOUNT IN ACTIVE DIRECTORY (AD)
 ![Organizational Unit Admin   Employees](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/d9bf4b8f-14de-448e-aa17-85e5d472774f)
-
-
-
-
-
 __________________________________________________________________________________________________________________________
-
-
 CREATE USER ACCOUNT & ASSIGN TO DOMAIN ADMIN GROUP
 
-
-
-
-
 ![Assign ed to domain admin group](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/f3e448c4-1cbe-42d8-ba9d-72b64ace4136)
+
+Log out & log back in as "mydomain.com\rafiki_admin"
+
+
+![mydomain](https://github.com/RafikiHarbin/Configure-ActiveDirectory/assets/170275827/e8516f46-446f-4234-b512-055f3b398073)
+
+___________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
 
 
